@@ -7,21 +7,21 @@ Quaran-To-Dos is an app designed for the 2020 Coronavirus Crisis. With everyone 
 Using this app is user-friendly. The user can submit a username to store their todo list in. Then simply select what they would like to do and search for a movie, book, video game, or song and add the option to their list. The number of to-dos done by all the users will show up on the timeline so they can stay connected and motivated to get that number higher than the day before. 
 
 ## Tech Used
--OMDB API
--Google books API
--Giant Bomb API
--Spotify API
--Chart.js
--mySQL
--Sequelize
--Node
--Express Handlebars
+- OMDB API
+- Google books API
+- Giant Bomb API
+- Spotify API
+- Chart.js
+- mySQL
+- Sequelize
+- Node
+- Express Handlebars
 
 ## Contributors
--Cassandra Heil
--Amanda Higgens
--Samantha Considine
--Vince Casmirri
+- Cassandra Heil
+- Amanda Higgens
+- Samantha Considine
+- Vince Casmirri
 
 ## Link
 https://cassandraheil.github.io/Quaren-To-Dos/
